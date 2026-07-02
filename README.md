@@ -1,13 +1,9 @@
-# CellMarket Pro
+# CellMarket
 
-Aplicación PWA para taller de reparación de celulares.
+Aplicación web móvil para clientes y órdenes de reparación.
 
-## Módulos incluidos
-- Inicio con estadísticas
-- Clientes
-- Recibir equipo / órdenes
-- Reportes básicos
-- Ajustes
+## Subir a GitHub Pages
 
-## Publicar en GitHub Pages
-Sube todos estos archivos a la raíz del repositorio y activa Pages desde `main / root`.
+1. Sube `index.html` al repositorio.
+2. Settings > Pages > Deploy from a branch > main > /(root).
+3. Abre la URL generada.
